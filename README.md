@@ -1,0 +1,5 @@
+- Hello, I am Arty!
+- I'm heavily involved with online gaming, and writing mods/scripts.
+- I’m currently learning LUA and C++
+- I very rarely make any collaborations, however, if you are interested in having me help with some sort of project, feel free to reach out to me.
+- To contact me, either send an email to Catharwell@gmail.com, or send a friend request and DM me on discord: Arty⁴#2017
